@@ -32,3 +32,15 @@ D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\MongoDBDriver\Mon
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.xml
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.pdb
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csproj.CoreCompileInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\netcoreapp2.2\MongoDB.Driver.deps.json
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\netcoreapp2.2\MongoDB.Driver.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\netcoreapp2.2\MongoDB.Driver.pdb
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\netcoreapp2.2\MongoDB.Driver.xml
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csprojAssemblyReference.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.AssemblyInfoInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.AssemblyInfo.cs
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csproj.CoreCompileInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csproj.CopyComplete
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.xml
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.pdb

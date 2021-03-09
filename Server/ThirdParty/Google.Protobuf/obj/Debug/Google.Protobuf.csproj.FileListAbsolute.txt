@@ -89,3 +89,13 @@ D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\Google.Protobuf\o
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.dll
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.pdb
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csproj.CoreCompileInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\Google.Protobuf.deps.json
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\Google.Protobuf.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\Google.Protobuf.pdb
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csprojAssemblyReference.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.AssemblyInfoInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.AssemblyInfo.cs
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csproj.CoreCompileInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csproj.CopyComplete
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.pdb

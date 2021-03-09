@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\taikr008\\Desktop\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {}
+    "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {}
   },
   "projects": {
-    "D:\\Users\\taikr008\\Desktop\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
+    "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\taikr008\\Desktop\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
+        "projectUniqueName": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
         "projectName": "KcpLib",
-        "projectPath": "D:\\Users\\taikr008\\Desktop\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
-        "packagesPath": "C:\\Users\\Rman-xvr\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\taikr008\\Desktop\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\obj\\",
+        "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
+        "packagesPath": "C:\\Users\\chenbin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\KcpLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rman-xvr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chenbin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

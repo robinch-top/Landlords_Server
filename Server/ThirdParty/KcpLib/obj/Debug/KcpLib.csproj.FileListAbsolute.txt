@@ -9,3 +9,14 @@ D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\KcpLib\obj\Debug\
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.pdb
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.csproj.CoreCompileInputs.cache
 D:\Users\taikr008\Desktop\Landlords_Server01\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.csprojAssemblyReference.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\libkcp.dylib
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\libkcp.so
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\KcpLib.deps.json
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\KcpLib.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\KcpLib.pdb
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.csprojAssemblyReference.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.AssemblyInfoInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.AssemblyInfo.cs
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.csproj.CoreCompileInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ThirdParty\KcpLib\obj\Debug\KcpLib.pdb
