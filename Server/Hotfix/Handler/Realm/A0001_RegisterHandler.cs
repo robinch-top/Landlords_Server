@@ -16,6 +16,11 @@ namespace ETHotfix
                 DBProxyComponent dbProxy = Game.Scene.GetComponent<DBProxyComponent>();
 
                 //验证假定的账号和密码
+                if(request.Account.Length<=0||request.Password.Length<=0){
+                    Log.Error("账号密码为空 account:" + request.Account+"passwd:"+request.Password);
+                    reply();
+                    return;
+                }
                 List<ComponentWithId> result = await dbProxy.Query<AccountInfo>($"{{Account:'{request.Account}'}}");
                 if (result.Count == 1)
                 {

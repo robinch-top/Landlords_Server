@@ -70,6 +70,15 @@ namespace ETModel
 	[Message(HotfixOpcode.A0001_Register_R2C)]
 	public partial class A0001_Register_R2C : IResponse {}
 
+//获取用户信息
+	[Message(HotfixOpcode.A1001_GetUserInfo_C2G)]
+	public partial class A1001_GetUserInfo_C2G : IRequest {}
+
+//返回用户信息
+//RpcID,Error,Message是actor RPC消息固有的
+	[Message(HotfixOpcode.A1001_GetUserInfo_G2C)]
+	public partial class A1001_GetUserInfo_G2C : IResponse {}
+
 }
 namespace ETModel
 {
@@ -95,5 +104,7 @@ namespace ETModel
 		 public const ushort A0002_Login_R2C = 10018;
 		 public const ushort A0001_Register_C2R = 10019;
 		 public const ushort A0001_Register_R2C = 10020;
+		 public const ushort A1001_GetUserInfo_C2G = 10021;
+		 public const ushort A1001_GetUserInfo_G2C = 10022;
 	}
 }
