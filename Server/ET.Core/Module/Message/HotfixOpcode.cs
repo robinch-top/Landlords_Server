@@ -46,6 +46,30 @@ namespace ETModel
 	[Message(HotfixOpcode.G2C_LoginGate_Back)]
 	public partial class G2C_LoginGate_Back : IResponse {}
 
+//客户端登陆网关请求
+	[Message(HotfixOpcode.A0003_LoginGate_C2G)]
+	public partial class A0003_LoginGate_C2G : IRequest {}
+
+//客户端登陆网关返回
+	[Message(HotfixOpcode.A0003_LoginGate_G2C)]
+	public partial class A0003_LoginGate_G2C : IResponse {}
+
+//客户端登陆认证请求
+	[Message(HotfixOpcode.A0002_Login_C2R)]
+	public partial class A0002_Login_C2R : IRequest {}
+
+//客户端登陆认证返回
+	[Message(HotfixOpcode.A0002_Login_R2C)]
+	public partial class A0002_Login_R2C : IResponse {}
+
+//客户端注册请求
+	[Message(HotfixOpcode.A0001_Register_C2R)]
+	public partial class A0001_Register_C2R : IRequest {}
+
+//客户端注册请求回复
+	[Message(HotfixOpcode.A0001_Register_R2C)]
+	public partial class A0001_Register_R2C : IResponse {}
+
 }
 namespace ETModel
 {
@@ -65,5 +89,11 @@ namespace ETModel
 		 public const ushort G2C_PlayerInfo = 10012;
 		 public const ushort C2G_LoginGate_Req = 10013;
 		 public const ushort G2C_LoginGate_Back = 10014;
+		 public const ushort A0003_LoginGate_C2G = 10015;
+		 public const ushort A0003_LoginGate_G2C = 10016;
+		 public const ushort A0002_Login_C2R = 10017;
+		 public const ushort A0002_Login_R2C = 10018;
+		 public const ushort A0001_Register_C2R = 10019;
+		 public const ushort A0001_Register_R2C = 10020;
 	}
 }

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.2": {
       "App/1.0.0": {
         "dependencies": {
+          "CommandLineParser.Core": "1.0.1",
           "ET.Core": "1.0.0",
           "NLog": "4.5.4"
         },
@@ -35,6 +36,14 @@
           "lib/netstandard1.5/CommandLine.dll": {
             "assemblyVersion": "2.0.275.0",
             "fileVersion": "2.0.275.0"
+          }
+        }
+      },
+      "CommandLineParser.Core/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/CommandLineParser.Core.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -1127,6 +1136,13 @@
       "sha512": "sha512-s+cVeOzKcoPu0IWda5DPd0b9K7vfKqo17aOOrj5zsUnE5n3Bts8vutn5R3KYqBlnbuqQEXzJT7IhAkRKMXouzw==",
       "path": "commandlineparser/2.2.1",
       "hashPath": "commandlineparser.2.2.1.nupkg.sha512"
+    },
+    "CommandLineParser.Core/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eDbN61t7xnMggVWn+B2xo0DwtFIRPU7dWzxOwmyG2jVo9RhkTsnvPPVpxOzyAxVjvQik4+f5FhkDekEGoTe6iQ==",
+      "path": "commandlineparser.core/1.0.1",
+      "hashPath": "commandlineparser.core.1.0.1.nupkg.sha512"
     },
     "DnsClient/1.0.7": {
       "type": "package",
